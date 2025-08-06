@@ -88,7 +88,4 @@ The app is deployed on **Streamlit Cloud** and is accessible here:
 
 ---
 
-## 📝 License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
