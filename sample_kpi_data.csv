@@ -1,0 +1,6 @@
+Order Quantity,Lead Time,Demand Forecast Accuracy,Inventory Turnover,Stockout
+100,3,0.92,4.2,0
+120,5,0.87,3.5,1
+80,2,0.78,5.0,1
+140,4,0.90,4.0,0
+110,3,0.85,3.8,0

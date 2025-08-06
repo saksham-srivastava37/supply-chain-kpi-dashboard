@@ -1,0 +1,6 @@
+OrderID,ProductID,Warehouse,Region,OrderDate,DeliveryDate,Status,Quantity,Inventory,Order Quantity,Lead Time,Demand Forecast Accuracy,Inventory Turnover,On Time Delivery Rate,Stockout Rate
+1001,P01,WH1,North,2025-08-01,2025-08-03,Delivered,10,20,100,2,0.91,4.2,0.95,0.0
+1002,P05,WH2,South,2025-08-01,2025-08-06,Delayed,5,15,120,5,0.85,3.5,0.80,0.2
+1003,P03,WH1,West,2025-08-02,2025-08-04,Delivered,7,18,90,2,0.93,4.8,0.96,0.0
+1004,P02,WH3,East,2025-08-02,2025-08-07,Delayed,8,17,110,5,0.87,3.9,0.75,0.15
+1005,P04,WH2,North,2025-08-03,2025-08-05,Delivered,12,25,105,2,0.89,4.5,0.98,0.0
